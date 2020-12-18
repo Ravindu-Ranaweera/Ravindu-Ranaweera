@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][instagram]
 
@@ -37,4 +37,8 @@
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCnhOIKEArncQZW2nAS6mN-Q?view_as=subscriberyoutube
+[facebook]: https://www.facebook.com/ravindu.ranaweera/
+[linkedin]: https://www.linkedin.com/in/ravindu-ranaweera/
+[behance]: https://www.behance.net/ravinduranawee
+
 ---
